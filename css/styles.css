@@ -1,3 +1,4 @@
+/* Carousel */
 .carouselBg{
     background-color: #fceae8;
 }
@@ -7,4 +8,17 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
+}
+/* Categories */
+.orangeBg{
+    background-color: orange;
+}
+.orchidBg{
+    background-color: orchid;
+}
+.blueBg{
+    background-color: blue;
+}
+.categories img{
+    width: 100px;
 }
