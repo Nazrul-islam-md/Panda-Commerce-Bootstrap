@@ -22,3 +22,11 @@
 .categories img{
     width: 100px;
 }
+/* Subscribe */
+.subscribeBg{
+    background-color: #fceae8;
+    height: 280px;
+}
+.subscribeBg p{
+    color: gray;
+}
